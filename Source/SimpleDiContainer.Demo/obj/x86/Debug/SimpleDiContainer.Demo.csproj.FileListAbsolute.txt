@@ -1,8 +1,0 @@
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Demo/obj/x86/Debug/SimpleDiContainer.Demo.csproj.CoreCompileInputs.cache
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Demo/bin/Debug/SimpleDiContainer.Demo.exe
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Demo/bin/Debug/SimpleDiContainer.Demo.pdb
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Demo/obj/x86/Debug/SimpleDiContainer.Demo.exe
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Demo/obj/x86/Debug/SimpleDiContainer.Demo.pdb
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Demo/bin/Debug/SimpleDiContainer.Lib.dll
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Demo/bin/Debug/SimpleDiContainer.Lib.pdb
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Demo/obj/x86/Debug/SimpleDiContainer.Demo.csprojResolveAssemblyReference.cache

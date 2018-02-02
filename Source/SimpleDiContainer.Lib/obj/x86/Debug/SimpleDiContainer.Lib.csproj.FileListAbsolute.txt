@@ -1,5 +1,0 @@
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Lib/obj/x86/Debug/SimpleDiContainer.Lib.csproj.CoreCompileInputs.cache
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Lib/bin/Debug/SimpleDiContainer.Lib.dll
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Lib/bin/Debug/SimpleDiContainer.Lib.pdb
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Lib/obj/x86/Debug/SimpleDiContainer.Lib.dll
-/Users/doncho/repos/SimpleDiContainer/Source/SimpleDiContainer.Lib/obj/x86/Debug/SimpleDiContainer.Lib.pdb
