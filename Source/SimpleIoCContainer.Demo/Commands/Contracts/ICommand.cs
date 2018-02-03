@@ -1,4 +1,4 @@
-﻿namespace SimpleDiContainer.Demo
+﻿namespace SimpleIoCContainer.Demo.Commmands.Contracts
 {
     interface ICommand<T>
     {

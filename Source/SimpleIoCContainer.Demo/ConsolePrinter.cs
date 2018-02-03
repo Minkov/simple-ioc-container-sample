@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SimpleDiContainer.Demo
+namespace SimpleIoCContainer.Demo
 {
     class ConsolePrinter : IPrinter
     {

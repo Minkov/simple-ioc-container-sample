@@ -1,13 +1,14 @@
 ﻿using System;
 using System.Linq;
+using SimpleIoCContainer.Demo.Commmands.Contracts;
 
-namespace SimpleDiContainer.Demo
+namespace SimpleIoCContainer.Demo.Commmands
 {
-    class SomeCommand<T> : ICommand<T>
+    class AnotherCommand<T> : ICommand<T>
     {
         void ICommand<T>.Execute(params T[] args)
         {
-            Console.WriteLine(" --- Some Command ---");
+            Console.WriteLine(" --- Another Command ---");
             args.ToList()
                 .ForEach((obj) => Console.WriteLine(obj));
         }

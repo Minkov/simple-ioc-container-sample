@@ -1,4 +1,4 @@
-﻿namespace SimpleDiContainer.Demo
+﻿namespace SimpleIoCContainer.Demo
 {
     interface IPrinter
     {

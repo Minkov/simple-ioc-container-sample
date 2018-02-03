@@ -1,21 +1,21 @@
 ﻿<Properties StartupConfiguration="{3BBB8FEA-BEEA-45FD-872A-4A8033A1FE05}|Default">
   <MonoDevelop.Ide.ItemProperties.SimpleDiContainer.Demo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleDiContainer.Demo/SomeCommand.cs">
+  <MonoDevelop.Ide.ItemProperties.SimpleIoCContainer.Demo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleIoCContainer.Demo/Commands/SomeCommand.cs">
     <Files>
-      <File FileName="SimpleDiContainer.Demo/Program.cs" Line="22" Column="46" />
-      <File FileName="SimpleDiContainer.Lib/SimpleContainer.cs" Line="41" Column="13" />
-      <File FileName="SimpleDiContainer.Demo/CommandWithPrinter.cs" Line="11" Column="50" />
-      <File FileName="SimpleDiContainer.Demo/SomeCommand.cs" Line="1" Column="1" />
+      <File FileName="SimpleIoCContainer.Demo/Commands/AnotherCommand.cs" Line="9" Column="32" />
+      <File FileName="SimpleIoCContainer.Demo/Commands/PrintCommand.cs" Line="6" Column="30" />
+      <File FileName="SimpleIoCContainer.Demo/Commands/SomeCommand.cs" Line="7" Column="31" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SimpleDiContainer" expanded="True">
-            <Node name="SimpleDiContainer.Demo" expanded="True">
-              <Node name="SomeCommand.cs" selected="True" />
-            </Node>
-            <Node name="SimpleDiContainer.Lib" expanded="True">
+          <Node name="SimpleIoCContainer" expanded="True">
+            <Node name="SimpleIoCContainer.Demo" expanded="True">
               <Node name="References" expanded="True" />
+              <Node name="Commands" expanded="True">
+                <Node name="SomeCommand.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

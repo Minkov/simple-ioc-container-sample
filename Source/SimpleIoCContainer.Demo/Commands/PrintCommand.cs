@@ -1,12 +1,13 @@
 ﻿using System.Linq;
+using SimpleIoCContainer.Demo.Commmands.Contracts;
 
-namespace SimpleDiContainer.Demo
+namespace SimpleIoCContainer.Demo.Commmands
 {
-    class CommandWithPrinter<T> : ICommand<T>
+    class PrintCommand<T> : ICommand<T>
     {
         private IPrinter printer;
 
-        public CommandWithPrinter(IPrinter printer) => this.printer = printer;
+        public PrintCommand(IPrinter printer) => this.printer = printer;
 
         void ICommand<T>.Execute(params T[] args)
         {
